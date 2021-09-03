@@ -1,0 +1,14 @@
+---
+:id: 35788409
+:submitters:
+- :name: Matt Robert Lallo
+  :email: malallo@my.uri.edu
+- :name: Jane Trapala
+  :email: jane_trapala@my.uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-24 03:30:56.385965000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-23 20:30:56.385965000 Z
+:status: processed
+:score: 86.0
